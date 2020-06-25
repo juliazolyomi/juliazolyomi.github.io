@@ -8,7 +8,7 @@ staticDir = "static"
 googleAnalytics = "" # todo!
 enableRobotsTXT = true
 
-DefaultContentLanguage = "hu"
+DefaultContentLanguage = "en"
 copyright = "Julia Zolyomi"
 
 [sitemap]
