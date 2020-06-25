@@ -5,7 +5,7 @@ summaryLength = "10"
 #theme = "ananke"
 title = "Julia Zolyomi"
 staticDir = "static"
-googleAnalytics = "" # todo!
+googleAnalytics = "UA-170856231-1"
 enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
