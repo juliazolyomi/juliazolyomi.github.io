@@ -1,0 +1,32 @@
+[more]
+other = "Tovább"
+
+[allTitle]
+other = "Összes {{.Title }}"
+
+[recentTitle]
+other = "Legújabb {{.Title }}"
+
+[readMore]
+other = "olvass tovább"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Kapcsolódó"
+
+[yourName]
+other = "A Te Neved"
+
+[emailAddress]
+other = "Email Cím"
+
+[message]
+other = "Üzenet"
+
+[emailRequiredNote]
+other = "Az email cím megadása kötelező"
+
+[send]
+other = "Küldés"
