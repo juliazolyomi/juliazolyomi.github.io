@@ -1,0 +1,33 @@
+.portrait-image {
+  width: 50%;
+  margin: 0px auto;
+}
+
+.blue-bg {
+  background: #3aa6f1;
+  color: white;
+}
+
+.blue-bg article {
+  color: white;
+}
+
+.blue-bg article section {
+  color: white;
+}
+
+main a {
+  color: #267fba;
+}
+
+main a:visited {
+  color: #267fba;
+}
+
+.header-dimming {
+  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, #267fba 100%);
+}
+
+.measure-wide-xl {
+  max-width: 44em;
+}
