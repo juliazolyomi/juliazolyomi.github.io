@@ -28,4 +28,6 @@ The counseling sessions take place **online**, the duration of the individual co
 
 The first session is an introductory conversation, during which we assess the problems caused by the given situation and set a goal to be achieved in the following sessions.
 
-If you would like to arrange a first meeting or have any questions, feel free to contact me via [Contact](/contact).
+If you would like to arrange a first meeting or have any questions, feel free to [contact](/contact) me.
+
+{{< contact-form-en >}}
