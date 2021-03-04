@@ -24,9 +24,11 @@ Mindenkinél előfordulhat, hogy nehézségekkel küzd, elakadást érez az éle
 
 # Ahogyan segíthetek
 
-A tanácsadás **online** formában zajlik, az egyéni konzultációs alkalom időtartama **50 perc**.
+A tanácsadás **online** formában zajlik (Zoom / Skype), az egyéni konzultációs alkalom időtartama **50 perc**.
 
 Az első időpont egy ismerkedő beszélgetés, mely során felmérjük az adott helyzet okozta problémákat és kitűzzük a következő alkalmak során elérni kívánt célt.
+
+Egy tanácsadási alkalom ára **10 900 Ft** / 50 perc.
 
 Amennyiben úgy érzi, hogy a segítségére lehetek, keressen bátran a [Kapcsolat](/kapcsolat) menüpont alatti elérhetőségek bármelyikén.
 
