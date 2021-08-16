@@ -24,6 +24,8 @@ During and since my studies, I have spent a lot of time volunteering, such as wo
 
 # Professional experience
 
+* **2020 -** Psychological private practice
+
 * **2018 -** Psychologist, Volkshilfe Wien, Sophie Counseling Center, psychological counseling for women working in the sex industry in Austria
 
 * **2018** Life counselor, Volkshilfe Wien, Flatstarts & Flatworks program, helping families with refugee status

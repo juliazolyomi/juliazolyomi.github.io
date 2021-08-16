@@ -28,7 +28,7 @@ The counseling sessions take place **online** (Zoom / Skype), the duration of th
 
 The first session is an introductory conversation, during which we assess the problems caused by the given situation and set a goal to be achieved in the following sessions.
 
-The fee of one session is **29 EUR** / 50 minutes.
+The fee of one session is **40 EUR** / 50 minutes.
 
 If you would like to arrange a first meeting or have any questions, feel free to [contact](/contact) me.
 

@@ -24,6 +24,8 @@ Tanulmányaim közben és azóta is sok időt töltök önkéntességgel, dolgoz
 
 # Szakmai tapasztalat
 
+* **2020 -** Pszichológiai magánrendelés
+
 * **2018 -** Pszichológus, Volkshilfe Wien, Sophie Tanácsadóközpont, lelki segítségnyújtás az Ausztriában élő, szexiparban dolgozó nők számára
 
 * **2018** Életvezetési tanácsadó, Volkshilfe Wien, Flatstarts & Flatworks program, menekült státusszal rendelkező családok segítése
