@@ -28,8 +28,6 @@ A tanácsadás **online** formában zajlik (Zoom / Skype), az egyéni konzultác
 
 Az első időpont egy ismerkedő beszélgetés, mely során felmérjük az adott helyzet okozta problémákat és kitűzzük a következő alkalmak során elérni kívánt célt.
 
-Egy tanácsadási alkalom ára **15 000 Ft** / 50 perc.
-
 Amennyiben úgy érzi, hogy a segítségére lehetek, keressen bátran a [Kapcsolat](/kapcsolat) menüpont alatti elérhetőségek bármelyikén.
 
 {{< contact-form-hu >}}
